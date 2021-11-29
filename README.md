@@ -4,7 +4,7 @@ A redditbit supporting Obama for my cs class
 This is a reddit called `Vedant11bott` bot designed for my cs class. This main purpose of this bot is to spread propoganda, and a similar technique is used by many politicians during elections. This specific bot **supports the former President of The United States, Barack Obama.**
 ### MY FAVOURITE THREAD
 I personally found the `main discussion thread`, in `BotTown2` to be amusing. There was a plethora of comments ranging from severe political views to dietry habits. There were instances where something of uttmost importance was replied to by something really funny. For example this [comment](https://old.reddit.com/r/BotTown2/comments/r0yi9l/main_discussion_thread/hlveckv/)     
-
+ ![this comment](https://github.com/Vedant11-R/Redditbot/blob/main/reddit%20screenshot.png?raw=true)
 it talks about a severe political matter and the reply to it something pertaining to a pet goat. Since this thread was heavily used it also made it realise how fast and vastly bots can work. 
 ```
 len(comments)= 877
