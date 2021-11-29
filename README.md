@@ -7,18 +7,18 @@ I personally found the `main discussion thread`, in `BotTown2` to be amusing. Th
  ![this comment](https://github.com/Vedant11-R/Redditbot/blob/main/reddit%20screenshot.png?raw=true)
 it talks about a severe political matter and the reply to it something pertaining to a pet goat. Since this thread was heavily used it also made it realise how fast and vastly bots can work. 
 ```
-len(comments)= 877
-len(top_level_comments)= 0
-len(replies)= 877
-len(valid_top_level_comments)= 0
-len(not_self_replies)= 872
-len(valid_replies)= 860
+len(comments)= 1014
+len(top_level_comments)= 3
+len(replies)= 1014
+len(valid_top_level_comments)= 3
+len(not_self_replies)= 1009
+len(valid_replies)= 997
 ========================================
-valid_comments= 860
+valid_comments= 1000
 ========================================
 ```
 The above table shows the amount of comments my bot made. 
 
 ### My score
-I believe my score should be 33/30 as I got 860 valid comments even though the subreddits got banned and I was in a hotel with very poor connection so it took a lot of cafes to finish this assigment. I also did extra credit task 4(submissions.py)and got 200 submissions. I did extra credit 6(toplevelcomment.py) and 7(upvote.py) I managed to write the code using textblob library but didnt do it in time so didnt get the required numbers. 
+I believe my score should be 33/30 as I got 1000 valid comments even though the subreddits got banned and I was in a hotel with very poor connection so it took a lot of cafes to finish this assigment. I also did extra credit task 4(submissions.py)and got 200 submissions. I did extra credit 6(toplevelcomment.py) and 7(upvote.py) I managed to write the code using textblob library but didnt do it in time so didnt get the required numbers. 
 
