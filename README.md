@@ -7,11 +7,11 @@ I personally found the `main discussion thread`, in `BotTown2` to be amusing. Th
  ![this comment](https://github.com/Vedant11-R/Redditbot/blob/main/reddit%20screenshot.png?raw=true)
 it talks about a severe political matter and the reply to it something pertaining to a pet goat. Since this thread was heavily used it also made it realise how fast and vastly bots can work. 
 ```
-len(comments)= 978
+len(comments)= 981
 len(top_level_comments)= 1
 len(replies)= 984
 len(valid_top_level_comments)= 1
-len(not_self_replies)= 981
+len(not_self_replies)= 978
 len(valid_replies)= 959
 ========================================
 valid_comments= 960
