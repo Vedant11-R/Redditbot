@@ -18,5 +18,5 @@ valid_comments= 860
 The above table shows the amount of comments my bot made. 
 
 ### My score
-I believe my score should be 32/30 as I got 860 valid comments even though the subreddits got banned and I was in a hotel with very poor connection so it took a lot of cafes to finish this assigment. I also did extra credit task 4,6 and 7. 
+I believe my score should be 32/30 as I got 860 valid comments even though the subreddits got banned and I was in a hotel with very poor connection so it took a lot of cafes to finish this assigment. I also did extra credit task 4(submissions.py) ,6(toplevelcomment.py) and 7(upvote.py). 
 
