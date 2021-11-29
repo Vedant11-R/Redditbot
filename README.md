@@ -7,18 +7,19 @@ I personally found the `main discussion thread`, in `BotTown2` to be amusing. Th
  ![this comment](https://github.com/Vedant11-R/Redditbot/blob/main/reddit%20screenshot.png?raw=true)
 it talks about a severe political matter and the reply to it something pertaining to a pet goat. Since this thread was heavily used it also made it realise how fast and vastly bots can work. 
 ```
-len(comments)= 1014
-len(top_level_comments)= 3
-len(replies)= 1014
-len(valid_top_level_comments)= 3
-len(not_self_replies)= 1009
-len(valid_replies)= 997
+len(comments)= 978
+len(top_level_comments)= 1
+len(replies)= 984
+len(valid_top_level_comments)= 1
+len(not_self_replies)= 981
+len(valid_replies)= 959
 ========================================
-valid_comments= 1000
+valid_comments= 960
 ========================================
+
 ```
 The above table shows the amount of comments my bot made. 
 
 ### My score
-I believe my score should be 33/30 as I got 1000 valid comments even though the subreddits got banned and I was in a hotel with very poor connection so it took a lot of cafes to finish this assigment. I also did extra credit task 4(submissions.py)and got 200 submissions. I did extra credit 6(toplevelcomment.py) and 7(upvote.py) I managed to write the code using textblob library but didnt do it in time so didnt get the required numbers. 
+I believe my score should be 33/30 as I over 300 valid comments on the BotTown but as soon as I landed in New York I had 0 valid comments. Its been really difficult to keep running the file as the wifi in the hotel is terrible and i had to sit in cafes for hours just tp get the required comments. After hitting 960 (I recorded it as didnt wanna risk losing this record too) my valid comments started decreasing so I stopped running the file. I also did extra credit task 4(submissions.py)and got 200 submissions. I did extra credit 6(toplevelcomment.py) and 7(upvote.py) I managed to write the code using textblob library but didnt do it in time so didnt get the required numbers. 
 
